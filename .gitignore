@@ -1,6 +1,5 @@
-# env files (ALL)
+# env files (ONLY real env)
 .env
-.env.*
 **/.env
 
 # node modules
