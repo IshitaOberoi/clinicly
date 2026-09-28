@@ -44,25 +44,25 @@
 ## ✨ Features
 
 ### 👤 User Panel
-- 🔐 Secure user registration and login with JWT authentication
-- 🔍 Browse doctors by speciality (Dermatologist, Gynecologist, General Physician, Pediatrician, Neurologist, Gastroenterologist)
-- 📅 Book, view, and cancel appointments
-- 💳 **Razorpay payment integration** for appointment fee payments
-- 👤 Manage personal profile with photo upload via Cloudinary
-- 🤖 **AI Health Assistant** — floating chatbot powered by Groq (Llama 3) for symptom guidance and specialist recommendations
-- 📱 Fully responsive design
+- Secure user registration and login with JWT authentication
+- Browse doctors by speciality (Dermatologist, Gynecologist, General Physician, Pediatrician, Neurologist, Gastroenterologist)
+- Book, view, and cancel appointments
+- **Razorpay payment integration** for appointment fee payments
+- Manage personal profile with photo upload via Cloudinary
+- **AI Health Assistant** — floating chatbot powered by Groq (Llama 3) for symptom guidance and specialist recommendations
+- Fully responsive design
 
 ### 🛠️ Admin Dashboard
-- 📊 Overview dashboard with key platform stats
-- ➕ Add and manage doctors with profile image upload
-- 📋 View and manage all appointments across the platform
-- 👨‍⚕️ View and control complete doctors list with availability toggle
+- Overview dashboard with key platform stats
+- Add and manage doctors with profile image upload
+- View and manage all appointments across the platform
+- View and control complete doctors list with availability toggle
 
 ### 👨‍⚕️ Doctor Dashboard
-- 🗓️ View upcoming and past appointments
-- ✅ Mark appointments as completed or cancel them
-- 👤 Manage personal profile and availability
-- 📊 Personal dashboard with appointment overview
+- View upcoming and past appointments
+- Mark appointments as completed or cancel them
+- Manage personal profile and availability
+- Personal dashboard with appointment overview
 
 ### 🤖 AI Health Chatbot
 - Floating chat widget available on all pages
